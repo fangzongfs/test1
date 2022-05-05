@@ -1,0 +1,3 @@
+D:/CLionProjects/FreeRTOS/STM32F411/test1/cmake-build-debug/CMakeFiles/test1.elf.dir
+D:/CLionProjects/FreeRTOS/STM32F411/test1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/FreeRTOS/STM32F411/test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
